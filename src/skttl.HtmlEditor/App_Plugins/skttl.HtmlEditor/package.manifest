@@ -1,0 +1,18 @@
+﻿{
+  propertyEditors:
+  [ 
+    {
+      alias: "skttl.HtmlEditor",
+      name: "Html Editor",
+      editor:  
+      {
+        view: "~/App_Plugins/skttl.HtmlEditor/view.html",
+		valueType: "TEXT"
+      }
+    } 
+  ],
+  javascript:  
+  [
+    "~/App_Plugins/skttl.HtmlEditor/controller.js"
+  ]
+}
