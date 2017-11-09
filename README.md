@@ -18,5 +18,5 @@ Grab a ZIP file of the latest release; unzip and move the contents to the root d
 - Includes a property value converter, so values are cast as HtmlStrings
 
 [NuGetPackage]: https://www.nuget.org/packages/skttl.HtmlEditor
-[GitHubRelease]: https://github.com/skybrud/skttl.HtmlEditor
+[GitHubRelease]: https://github.com/skttl/skttl.HtmlEditor
 
